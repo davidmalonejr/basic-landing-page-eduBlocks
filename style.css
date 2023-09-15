@@ -24,8 +24,12 @@ body {
 
   a {
     margin-left: 20px;
+    text-decoration: none!important;
   }
 
+  a:hover {
+    text-decoration: none !important;
+  }
   input {
     height: 48px;
     width: 200px;
