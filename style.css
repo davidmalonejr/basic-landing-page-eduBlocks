@@ -1,0 +1,49 @@
+body {
+    background-color: #f8dfdb;
+    font-family: 'Amatic SC', cursive;
+  }
+
+  div {
+    text-align: center;
+    color: #ff0066;
+  }
+
+  h1 {
+    font-size: 78px;
+  }
+
+  p {
+    font-size: 32px;
+  }
+
+  img {
+    color: #ff0066;
+    height: 30px;
+    border-radius: 5px;
+  }
+
+  a {
+    margin-left: 20px;
+  }
+
+  input {
+    height: 48px;
+    width: 200px;
+  }
+
+  button {
+    height: 48px;
+    width: 72px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 22px;
+    margin-left: 20px;
+  }
+
+  .vertical-center {
+    width: 100%;
+  }
+
+  .vertical-center div {
+    margin-bottom: 20px;
+  }
